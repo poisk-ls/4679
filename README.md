@@ -7,7 +7,7 @@
 ```text
 🎮 CPUCores :: Maximize Your FPS    🕘 896 hrs 23 mins
 🎮 DARK SOULS™ III                  🕘 571 hrs 58 mins
-🎮 Blender                          🕘 413 hrs 11 mins
+🎮 Blender                          🕘 414 hrs 11 mins
 🎮 Warframe                         🕘 258 hrs 44 mins
 🔫 Counter-Strike: Global Offensive 🕘 232 hrs 52 mins
 ```
