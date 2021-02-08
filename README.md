@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/4679/4679/gln.png">
+<img src="https://raw.githubusercontent.com/4679/4679/master/gln.png">
 
 ### Hi there 👋
 
