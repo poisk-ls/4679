@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/4679/4679/master/gln.png">
 
-### Hi there 👋
+### Hi there.
 
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/51b596063a59d1ab0ecf4e43e0fd2134" target="_blank">🎮 Steam playtime leaderboard</a>
