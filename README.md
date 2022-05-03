@@ -9,7 +9,7 @@
 🎮 CPUCores :: Maximize Your FPS    🕘 896 hrs 29 mins
 🎮 DARK SOULS™ III                  🕘 571 hrs 58 mins
 🎮 Blender                          🕘 501 hrs 54 mins
-🎮 Warframe                         🕘 258 hrs 49 mins
+🎮 Warframe                         🕘 259 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
